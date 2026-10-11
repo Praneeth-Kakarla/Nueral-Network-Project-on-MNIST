@@ -1,0 +1,5 @@
+mnist.pkl.gz
+__pycache__/
+venv/
+*.pyc
+.claude/
